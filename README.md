@@ -1,6 +1,6 @@
-# Flux1 Pro Image Generator
+# Flux1 Pro / Dall E 3 Image Generator
 
-Flux1 Pro Image Generator is a React-based web application that allows users to generate AI-based images using the Black Forest Labs API. Users can provide their API key and a custom prompt to generate images seamlessly.
+Flux1 Pro / Dall E 3  Image Generator is a React-based web application that allows users to generate AI-based images using the Black Forest Labs API / OPEN AI API. Users can provide their API key and a custom prompt to generate images seamlessly.
 
 ---
 
